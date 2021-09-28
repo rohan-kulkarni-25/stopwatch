@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Encode Sans SC", sans-serif;
+  /* background-color: #3F00FF; */
+}
+
+nav {
+  box-shadow: 1px 2px 2px rgba(128, 128, 128, 0.4);
+  padding: 1rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+/* background-color: #FFC72C; */
+
+}
